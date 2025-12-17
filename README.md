@@ -6,3 +6,6 @@ Result insights of students department wise
 # Database file
 [Download the database](Students.csv)
 
+# SQL Query Script
+[Download the SQL Script](advanced_sql.sql)
+
